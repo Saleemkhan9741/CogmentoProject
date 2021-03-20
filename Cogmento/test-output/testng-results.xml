@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[a]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2021-03-20T19:19:25 IST" name="Default suite" finished-at="2021-03-20T19:21:27 IST" duration-ms="121200">
+    <groups>
+      <group name="regression">
+        <method signature="Create_New_Event_Page_Test.createnewCalendertest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Test_Scripts.Create_New_Event_Page_Test@fa49800]" name="createnewCalendertest" class="Test_Scripts.Create_New_Event_Page_Test"/>
+        <method signature="Create_New_Event_Page_Test.sample()[pri:0, instance:Test_Scripts.Create_New_Event_Page_Test@fa49800]" name="sample" class="Test_Scripts.Create_New_Event_Page_Test"/>
+      </group> <!-- regression -->
+    </groups>
+    <test started-at="2021-03-20T19:19:25 IST" name="Default test" finished-at="2021-03-20T19:21:27 IST" duration-ms="121200">
+      <class name="Test_Scripts.Create_New_Event_Page_Test">
+        <test-method is-config="true" signature="configbef()[pri:0, instance:Test_Scripts.Create_New_Event_Page_Test@fa49800]" started-at="2021-03-20T19:19:26 IST" name="configbef" finished-at="2021-03-20T19:19:38 IST" duration-ms="11962" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configbef -->
+        <test-method signature="createnewCalendertest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Test_Scripts.Create_New_Event_Page_Test@fa49800]" started-at="2021-03-20T19:19:38 IST" name="createnewCalendertest" data-provider="getData" finished-at="2021-03-20T19:19:47 IST" duration-ms="9163" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Saleem_56]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[India]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Saleem]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Bengaluru]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[500]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Intro]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Saleem]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Amazon]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[Policy]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createnewCalendertest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Test_Scripts.Create_New_Event_Page_Test@fa49800]" started-at="2021-03-20T19:19:47 IST" name="tearDown" finished-at="2021-03-20T19:19:48 IST" duration-ms="937" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="configbef()[pri:0, instance:Test_Scripts.Create_New_Event_Page_Test@fa49800]" started-at="2021-03-20T19:19:48 IST" name="configbef" finished-at="2021-03-20T19:20:00 IST" duration-ms="11578" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configbef -->
+        <test-method signature="createnewCalendertest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Test_Scripts.Create_New_Event_Page_Test@fa49800]" started-at="2021-03-20T19:20:00 IST" name="createnewCalendertest" data-provider="getData" finished-at="2021-03-20T19:20:08 IST" duration-ms="8711" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Pooja_925]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Africa]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Pooja123]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Lucknow]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[600]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Party]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Praveen]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[TestYantra]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[Catsec]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createnewCalendertest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Test_Scripts.Create_New_Event_Page_Test@fa49800]" started-at="2021-03-20T19:20:08 IST" name="tearDown" finished-at="2021-03-20T19:20:10 IST" duration-ms="1036" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="configbef()[pri:0, instance:Test_Scripts.Create_New_Event_Page_Test@fa49800]" started-at="2021-03-20T19:20:10 IST" name="configbef" finished-at="2021-03-20T19:20:20 IST" duration-ms="10471" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configbef -->
+        <test-method signature="createnewCalendertest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Test_Scripts.Create_New_Event_Page_Test@fa49800]" started-at="2021-03-20T19:20:20 IST" name="createnewCalendertest" data-provider="getData" finished-at="2021-03-20T19:20:29 IST" duration-ms="9296" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Simran_909]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[US]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Ransim]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Hyderabad]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[400]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[DJ]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Saleem]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[maharani]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[4]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[College]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[6]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createnewCalendertest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Test_Scripts.Create_New_Event_Page_Test@fa49800]" started-at="2021-03-20T19:20:29 IST" name="tearDown" finished-at="2021-03-20T19:20:30 IST" duration-ms="1148" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="configbef()[pri:0, instance:Test_Scripts.Create_New_Event_Page_Test@fa49800]" started-at="2021-03-20T19:20:30 IST" name="configbef" finished-at="2021-03-20T19:20:42 IST" duration-ms="11383" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configbef -->
+        <test-method signature="createnewCalendertest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Test_Scripts.Create_New_Event_Page_Test@fa49800]" started-at="2021-03-20T19:20:42 IST" name="createnewCalendertest" data-provider="getData" finished-at="2021-03-20T19:20:51 IST" duration-ms="8852" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Sohail_355]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Australia]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[iegkblas]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[sfbvjo]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[600]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[DJ]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Praveen]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Amazon]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[Policy]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createnewCalendertest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Test_Scripts.Create_New_Event_Page_Test@fa49800]" started-at="2021-03-20T19:20:51 IST" name="tearDown" finished-at="2021-03-20T19:20:52 IST" duration-ms="1032" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="configbef()[pri:0, instance:Test_Scripts.Create_New_Event_Page_Test@fa49800]" started-at="2021-03-20T19:20:52 IST" name="configbef" finished-at="2021-03-20T19:21:04 IST" duration-ms="12126" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configbef -->
+        <test-method signature="createnewCalendertest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Test_Scripts.Create_New_Event_Page_Test@fa49800]" started-at="2021-03-20T19:21:04 IST" name="createnewCalendertest" data-provider="getData" finished-at="2021-03-20T19:21:12 IST" duration-ms="8564" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ranioth_465]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[uganda]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[nairobi]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[mauritius]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[700]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[vlaeu]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Saleem]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Amazon]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[Policy]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createnewCalendertest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Test_Scripts.Create_New_Event_Page_Test@fa49800]" started-at="2021-03-20T19:21:12 IST" name="tearDown" finished-at="2021-03-20T19:21:16 IST" duration-ms="3236" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="configbef()[pri:0, instance:Test_Scripts.Create_New_Event_Page_Test@fa49800]" started-at="2021-03-20T19:21:16 IST" name="configbef" finished-at="2021-03-20T19:21:26 IST" duration-ms="10184" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configbef -->
+        <test-method signature="sample()[pri:0, instance:Test_Scripts.Create_New_Event_Page_Test@fa49800]" started-at="2021-03-20T19:21:26 IST" name="sample" finished-at="2021-03-20T19:21:26 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[a]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- sample -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Test_Scripts.Create_New_Event_Page_Test@fa49800]" started-at="2021-03-20T19:21:26 IST" name="tearDown" finished-at="2021-03-20T19:21:27 IST" duration-ms="884" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Test_Scripts.Create_New_Event_Page_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
